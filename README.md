@@ -2,7 +2,7 @@
 [Ветка main](https://github.com/JohannFloydmann/fractals/tree/main)
 
 # 2 - Множество Мандельброта (комплесные числа)
-![alt text](https://github.com/JohannFloydmann/fractals/blob/acebabb73c8b0fe7af5741c19d77a128e73f4530/Recording%202024-04-24%20215320.gif "Mandelbrot set")\
+![alt text](https://github.com/JohannFloydmann/fractals/blob/acebabb73c8b0fe7af5741c19d77a128e73f4530/Recording%202024-04-24%20215320.gif "Mandelbrot set")
 
 
 
