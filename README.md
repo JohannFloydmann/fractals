@@ -1,5 +1,8 @@
 # 1 - Дерево Пифагора (простая рекурсия)
 ![alt text](https://github.com/JohannFloydmann/fractals/blob/3881873cb98b96e383f9af340bec84bde8a6835f/Recording%202024-04-24%20213655.gif "Logo Title Text 1")\
+
+
+
 Данный способ использует рекурсивную функцию ```branch()```, которая отрисовывает линию *(ветку)*, начало которой находится в координате ```(0, 0)```, переносит начало координат на конец отрисованной ветки и снова вызывает саму себя *(принцип рекурсии)*
 ```
 function branch(len) {
@@ -17,4 +20,4 @@ function branch(len) {
   }
 ```
 # 2 - Множество Мандельброта
-[Ветка ```complex-fractal```](https://github.com/JohannFloydmann/fractals/tree/complex-fractal)
+[Ветка complex-fractal](https://github.com/JohannFloydmann/fractals/tree/complex-fractal)
