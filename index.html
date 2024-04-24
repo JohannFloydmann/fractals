@@ -3,10 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script language="javascript" type="text/javascript" src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.min.js"></script>
-    <title>Fractals</title>
+    <title>Document</title>
+    <style>
+        body { font-family: arial; }
+    </style>
 </head>
 <body>
+    <canvas id="myCanvas" width="600" height="600" onclick="onCenter(event)">
+    </canvas>
+    <br><button onclick="onGo()">Go</button> <b id=message>   </b>
+    <br>Center X <input id=cx value="-1.15"> Y <input id=cy value="0.3">
+    <br>Width <input id=h value="0.2"> color <input id=pal value="15">
+    <br>click canvas to recenter
 </body>
 <script src="script.js"></script>
 </html>
